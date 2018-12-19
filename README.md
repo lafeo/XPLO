@@ -10,8 +10,8 @@ This is the Official GitHub repository for the club. XPLO is a tech club at Jamn
 
 
 # CLUB HEADS 
-#  
-#
-#
+*
+*
+*
 
-* all members are identified using usernames *
+* all members are identified using usernames
