@@ -11,8 +11,8 @@ This is the Official GitHub repository for the club. XPLO is a tech club at Jamn
 
 # CLUB HEADS 
 * lafeo_007 (Raayaan Sahu)
+* theswimmer (Sana Gaya)
 * thiccHypeBeast (Pranav Dubey)
-*
 (alphabetical order: user-names)
 
 # This is a club, and not an average classroom. So apart from guiding and providing basic knowledge and information about programming, modelling, circuitry they are allowed to ideate and create what their vision and thoughts govern. 
