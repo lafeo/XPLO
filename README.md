@@ -19,3 +19,5 @@ This is the Official GitHub repository for the club. XPLO is a tech club at Jamn
 # This is a club, and not an average classroom. So apart from guiding and providing basic knowledge and information about programming, modelling, circuitry they are allowed to ideate and create what their vision and thoughts govern. 
 
 * all members are identified using usernames
+
+(This repository is managed by lafeo_007 currently)
